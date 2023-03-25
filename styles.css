@@ -3,7 +3,16 @@
     font-family: 'Montserrat', sans-serif; box-sizing: border-box; margin: 0; padding: 0;
 }
 @media screen and (max-width:900px){
-    
+    .card-container{
+        max-width: 300px;
+        display: grid;
+
+    }
+    .container-dad{
+        position: relative;
+        overflow: hidden;
+        
+    }
 
 
 }
@@ -26,7 +35,6 @@ a{
     position: relative;
     overflow: hidden;
     padding: 3rem 0 ;
-    margin-left: 430px;
 }
 .card-container{
     display: grid;

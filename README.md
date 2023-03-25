@@ -11,5 +11,5 @@
 ### 🛠 Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
-- [Hml5]
+- [Hmtl5]
 - [CSS]
